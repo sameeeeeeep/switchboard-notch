@@ -1,0 +1,12 @@
+{
+  "name": "switchboard-notch",
+  "description": "Claude's questions as a native card at the Mac notch.",
+  "owner": { "name": "sameeeeeeep", "url": "https://github.com/sameeeeeeep/switchboard" },
+  "plugins": [
+    {
+      "name": "switchboard-notch",
+      "source": "./",
+      "description": "Claude's questions drop from your Mac's notch as a native card. A Claude Code mod (v2.1.287+, macOS 13+)."
+    }
+  ]
+}
